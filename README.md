@@ -32,9 +32,11 @@ This dashboard serves as a valuable tool for insurance companies, data analysts,
 
 ## 📂 Files Included
 
-<a href="https://github.com/YourUsername/Insurance-Data-Analysis/blob/main/Insurance%20Data%20Analysis.pbit" target="_blank">📈 Power BI Template – Insurance Data Analysis.pbit</a>
+<a href="https://github.com/Satayajit/Insurance-Data-Analysis/blob/main/Insurance%20Data%20Analysis.pbit" target="_blank">📈 Power BI Template – Insurance Data Analysis.pbit</a>
 
-<a href="https://github.com/YourUsername/Insurance-Data-Analysis/blob/main/YourSampleData.xlsx" target="_blank">📊 Sample Dataset – InsuranceData.xlsx</a> (Replace with actual link when available
+<a href="https://github.com/Satayajit/Insurance-Data-Analysis/blob/main/InsuranceData.csv" target="_blank">📊 Primary Dataset – InsuranceData.csv</a>
+
+<a href="https://github.com/Satayajit/Insurance-Data-Analysis/blob/main/Insurance%2BCustomer%2BFeedback.xlsx" target="_blank">💬 Customer Feedback – InsuranceCustomerFeedback.xlsx</a>
 
 ## 🛠️ Requirements
 
